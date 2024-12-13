@@ -1,0 +1,20 @@
+
+Address: "B50b908fFd42d2eDb12b325e75330c1AaAf35dc0" # Admin Address
+PrivateKey_: "068ab5318764afcaa90089c3bbe54bfab7c472dffc9cf4abf5ab3024b2111228"
+MetaNodeVersion: "0.0.1" 
+
+NodeAddress: "0x16851100Aa757efad2D67C32A6b544737AB991A7" 
+NodeConnectionAddress: "node" 
+
+StorageAddress: "0xda7284faC5E804F8b9d71Aa39310f0f86776b51d"
+StorageConnectionAddress: "storage"
+
+MailFactoryAddress: "0xa6f42a40f642123D2fa06070c5e5181a21B06bFD"  # Kventure Address
+MailFactoryABIPath: "../abi/mailFactory"
+MailStorageABIPath: "../abi/mailStorage"
+
+DnsLink_: "http://127.0.0.1:7080/api/dns/connection-address/"
+
+OwnerUrl: "http://127.0.0.1:8188/api/v1/names/owner/"
+API_PORT: ":8999"
+
